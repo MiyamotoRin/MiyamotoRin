@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiyamotoRin
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... JavaScript, React, Node.js, Saas, Unity
+- 👀 I’m interested in ... HCI, Alife
+- 🌱 I’m currently learning ... Unity, Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... A kind programmer
 
